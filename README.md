@@ -1,6 +1,6 @@
 # README
 
-conda create -n my_env numpy scipy pandas jupyter notebook matplotlib
+conda create -n my_env numpy scipy pandas jupyter notebook matplotlib seaborn
 
 jupyter notebook Analise_Bay_Area_Bike_Share-NDFDSI
 
